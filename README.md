@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- GitHub Profile README Template -->
 
 <h1 align="center">Hi there 👋, I'm Omiwade Nifemi</h1>
