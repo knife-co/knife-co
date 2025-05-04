@@ -49,6 +49,9 @@ A brief description of what this project does and why it matters.
   <a href="https://https://www.linkedin.com/in/nifemi-omiwade-7b0401153/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
+  <a href="https://twitter.com/natomiwad" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+  </a>
   <a href="mailto:your.natomiwad@gmail.com">
     <img src="https://img.shields.io/badge/Email-grey?logo=gmail&style=for-the-badge" />
   </a>
