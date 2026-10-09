@@ -47,6 +47,15 @@ An n8n pipeline that finds companies hiring for GTM roles, scores them against a
 
 *Built with n8n · Supabase · Salesforce Composite API*
 
+### 💧 [GTM Enrichment Pipeline](https://github.com/knife-co/gtm-enrichment-pipeline)
+A waterfall enrichment pipeline that fills in company data cheapest source first (cache → website → Apollo → pattern guess), checks the data belongs to the right company, and syncs to Salesforce under a written conflict rule: **a person's edit always wins**.
+
+| Verified complete | LinkedIn found | Wrong companies in Salesforce | Human edits overwritten | Credits on re-run |
+|:---:|:---:|:---:|:---:|:---:|
+| 88.6% | 94.3% | **0** (2 caught) | **0** | 0 |
+
+*Built with n8n · Supabase · Salesforce · Apollo · runs daily with a credit budget guard*
+
 ---
 
 ## 🧭 What's Next?
